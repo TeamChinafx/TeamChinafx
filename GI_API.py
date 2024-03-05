@@ -141,3 +141,17 @@ for api_url, md_file in api_list:
     version = data["data"]["game"]["latest"]["version"]
 
     get_and_write_data(api_url, md_file)
+
+#Something Useless()
+nums = []
+for i in range(8):
+    num = random.randint(0, 114514)
+    nums.append(num)
+
+s = "-".join(str(x) for x in nums)
+
+history_dir = "history"
+if not os.path.exists(history_dir):
+    os.mkdir(history_dir)
+with open("history/log.txt", "w") as f:
+    f.write(s + "\n")
