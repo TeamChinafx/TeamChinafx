@@ -1,4 +1,4 @@
-name: Update GI&HSR Download Info
+name: Update HoyoGames Download Info
 
 on:
   schedule:
@@ -33,7 +33,7 @@ jobs:
           git config --local user.email "Team_Fx@outlook.com"
           git config --local user.name "TeamFX"
           git add README.md
-          git add history/*
+          git add Games_CN.md
           git commit -m "Update files"
       - name: Push
         uses: ad-m/github-push-action@master
