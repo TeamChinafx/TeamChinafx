@@ -1,4 +1,5 @@
 import os
+import random
 import requests
 
 def bytes_to_gb(size):
@@ -113,3 +114,14 @@ def get_and_write_data(api_urls):
         print(f"The information obtained has been written to the markdown file: {md_file}")
 
 get_and_write_data(api_urls)
+
+nums = []
+for i in range(8):
+    num = random.randint(0, 114514)
+    nums.append(num)
+s = "-".join(str(x) for x in nums)
+history_dir = "history"
+if not os.path.exists(history_dir):
+    os.mkdir(history_dir)
+with open("history/log.txt", "w") as f:
+    f.write(s + "\n")
