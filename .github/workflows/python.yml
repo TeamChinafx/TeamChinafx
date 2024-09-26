@@ -26,14 +26,14 @@ jobs:
           pip install requests
       - name: Run python script
         run: |
-          python GI_API.py
-          python HSR_API.py
+          python HoyoAPI.py
       - name: Commit files
         run: |
           git config --local user.email "Team_Fx@outlook.com"
           git config --local user.name "TeamFX"
           git add README.md
           git add Games_CN.md
+          git add history/*
           git commit -m "Update files"
       - name: Push
         uses: ad-m/github-push-action@master
