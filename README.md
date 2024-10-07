@@ -2,7 +2,9 @@
 
 This document is based on the API URL provided by Hoyoverse to get the latest download information of various games, such as version number, update time, download link, etc. This document is for reference only and does not represent the official views or positions of Hoyoverse.
 
-[Switch to CN](Games_CN.md)## Genshin Impact
+[Switch to CN](Games_CN.md)
+
+## Genshin Impact
 
 - **Version number**: 5.0.0
 ### Client
