@@ -32,9 +32,9 @@ def get_and_write_data(api_urls):
         md_title = f"# {title}\n\n"
         md_content = f"{description}\n\n"
         if "CN" in md_file:
-            md_content += "[转换至OS包体下载信息](README.md)"
+            md_content += "[转换至OS包体下载信息](README.md)\n\n"
         else:
-            md_content += "[Switch to CN](Games_CN.md)"
+            md_content += "[Switch to CN](Games_CN.md)\n\n"
             
         if data["retcode"] == 0 and data["message"] == "OK":
             game_packages = {pkg["game"]["id"]: pkg for pkg in data["data"]["game_packages"]}
