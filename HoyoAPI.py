@@ -31,7 +31,8 @@ def get_and_write_data(api_urls):
 
         md_title = f"# {title}\n\n"
         md_content = f"{description}\n\n"
-
+        md_content += "[OS](README.md) | [CN](Games_CN.md)\n\n"
+            
         if data["retcode"] == 0 and data["message"] == "OK":
             game_packages = {pkg["game"]["id"]: pkg for pkg in data["data"]["game_packages"]}
             for game_id in order:
