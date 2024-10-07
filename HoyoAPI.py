@@ -2,8 +2,6 @@ import os
 import random
 import requests
 
-def bytes_to_gb(size):
-    return round(size / (1024 ** 3), 2)
 
 game_names = {
     "1Z8W5NHUQb": "原神",
@@ -22,6 +20,9 @@ api_urls = [
     ("https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=1Z8W5NHUQb&game_ids[]=64kMb5iAWu&game_ids[]=x6znKlJ0xK&game_ids[]=osvnlOc0S8&launcher_id=jGHBHlcOq1", "Games_CN.md", cn_order, "米哈游游戏下载信息", "此文档基于米哈游提供的API URL获取最新的游戏下载信息，如版本号、更新时间、下载链接等。此文档仅供参考，不代表米哈游或Hoyoverse的官方观点或立场。"),
     ("https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=gopR6Cufr3&game_ids[]=4ziysqXOQ8&game_ids[]=U5hbdsT9W7&launcher_id=VYTpXlbWo8", "README.md", global_order, "Hoyoverse Games Download Info", "This document is based on the API URL provided by Hoyoverse to get the latest download information of various games, such as version number, update time, download link, etc. This document is for reference only and does not represent the official views or positions of Hoyoverse.")
 ]
+
+def bytes_to_gb(size):
+    return round(size / (1024 ** 3), 2)
 
 def get_and_write_data(api_urls):
     for api_url, md_file, order, title, description in api_urls:
@@ -104,6 +105,75 @@ def get_and_write_data(api_urls):
                                 for audio in patch["audio_pkgs"]:
                                     md_content += f"| {patch['version']}-{latest_version} | [{audio['url'].split('/')[-1]}]({audio['url']}) | {bytes_to_gb(int(audio['size']))} GB | {audio['md5']} |\n"
                             md_content += "\n"
+
+                if "pre_download" in game_package and game_package["pre_download"]["major"]:
+                    pre_download = game_package["pre_download"]
+                    pre_download_version = pre_download["major"]["version"]
+
+                    if "CN" in md_file:
+                        md_content += "## 预下载\n\n"
+                        md_content += f"- **预下载版本号**: {pre_download_version}\n"
+                    else:
+                        md_content += "## Pre Download\n\n"
+                        md_content += f"- **Pre-download version number**: {pre_download_version}\n"
+
+                    pre_download_game_pkgs = pre_download["major"]["game_pkgs"]
+                    if pre_download_game_pkgs:
+                        if "CN" in md_file:
+                            md_content += "### 预下载客户端\n\n"
+                            md_content += "| 下载链接 | 包大小 | MD5 校验码 |\n"
+                        else:
+                            md_content += "### Pre-download Client\n\n"
+                            md_content += "| Download link | Package size | MD5 checksum |\n"
+                        md_content += "| :---: | :---: | :---: |\n"
+                        for pkg in pre_download_game_pkgs:
+                            md_content += f"| [{pkg['url'].split('/')[-1]}]({pkg['url']}) | {bytes_to_gb(int(pkg['size']))} GB | {pkg['md5']} |\n"
+                        md_content += "\n"
+
+                    pre_download_audio_pkgs = pre_download["major"]["audio_pkgs"]
+                    if pre_download_audio_pkgs:
+                        if "CN" in md_file:
+                            md_content += "### 预下载语音包\n\n"
+                            md_content += "| 语言 | 下载链接 | 大小 | MD5 校验码 |\n"
+                        else:
+                            md_content += "### Pre-download Voice Pack\n\n"
+                            md_content += "| Language | Download link | Size | MD5 checksum |\n"
+                        md_content += "| :---: | :---: | :---: | :---: |\n"
+                        for audio in pre_download_audio_pkgs:
+                            md_content += f"| {audio['language']} | [{audio['url'].split('/')[-1]}]({audio['url']}) | {bytes_to_gb(int(audio['size']))} GB | {audio['md5']} |\n"
+                        md_content += "\n"
+
+                    pre_download_patches = pre_download["patches"]
+                    if pre_download_patches:
+                        pre_download_client_diffs = [patch for patch in pre_download_patches if patch["game_pkgs"]]
+                        pre_download_audio_diffs = [patch for patch in pre_download_patches if patch["audio_pkgs"]]
+
+                        if pre_download_client_diffs:
+                            if "CN" in md_file:
+                                md_content += "### 预下载客户端差分文件\n\n"
+                                md_content += "| 差分版本 | 下载链接 | 大小 | MD5 校验码 |\n"
+                            else:
+                                md_content += "### Pre-download Client Diff files\n\n"
+                                md_content += "| Diff version | Download link | Size | MD5 checksum |\n"
+                            md_content += "| :---: | :---: | :---: | :---: |\n"
+                            for patch in pre_download_client_diffs:
+                                for pkg in patch["game_pkgs"]:
+                                    md_content += f"| {patch['version']}-{pre_download_version} | [{pkg['url'].split('/')[-1]}]({pkg['url']}) | {bytes_to_gb(int(pkg['size']))} GB | {pkg['md5']} |\n"
+                            md_content += "\n"
+
+                        if pre_download_audio_diffs:
+                            if "CN" in md_file:
+                                md_content += "### 预下载语音差分文件\n\n"
+                                md_content += "| 差分版本 | 下载链接 | 大小 | MD5 校验码 |\n"
+                            else:
+                                md_content += "### Pre-download Audio Diff files\n\n"
+                                md_content += "| Diff version | Download link | Size | MD5 checksum |\n"
+                            md_content += "| :---: | :---: | :---: | :---: |\n"
+                            for patch in pre_download_audio_diffs:
+                                for audio in patch["audio_pkgs"]:
+                                    md_content += f"| {patch['version']}-{pre_download_version} | [{audio['url'].split('/')[-1]}]({audio['url']}) | {bytes_to_gb(int(audio['size']))} GB | {audio['md5']} |\n"
+                            md_content += "\n"
+
         else:
             md_content += "请求失败，原因如下：\n\n" if "CN" in md_file else "Request failed, reason as follows:\n\n"
             md_content += data["message"] + "\n"
