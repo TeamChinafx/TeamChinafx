@@ -6,52 +6,8 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 
 ## Genshin Impact
 
-- **Version number**: 5.0.0
+- **Version number**: 5.1.0
 ### Client
-
-| Download link | Package size | MD5 checksum |
-| :---: | :---: | :---: |
-| [GenshinImpact_5.0.0.zip.001](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/GenshinImpact_5.0.0.zip.001) | 10.0 GB | 1ebf5dbcbe43bebcda7a57a8d789092e |
-| [GenshinImpact_5.0.0.zip.002](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/GenshinImpact_5.0.0.zip.002) | 10.0 GB | 57a67026c45d57c28e5b52e24e84cc04 |
-| [GenshinImpact_5.0.0.zip.003](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/GenshinImpact_5.0.0.zip.003) | 10.0 GB | 5e66ff28eaf6ba89e49f153c0f077d34 |
-| [GenshinImpact_5.0.0.zip.004](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/GenshinImpact_5.0.0.zip.004) | 10.0 GB | 39f014a760e27f77abed1989739c74c6 |
-| [GenshinImpact_5.0.0.zip.005](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/GenshinImpact_5.0.0.zip.005) | 10.0 GB | 15f9405a199afba833f18fce288b9c7f |
-| [GenshinImpact_5.0.0.zip.006](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/GenshinImpact_5.0.0.zip.006) | 10.0 GB | 881432ceab27987b1297c9eefb39f192 |
-| [GenshinImpact_5.0.0.zip.007](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/GenshinImpact_5.0.0.zip.007) | 3.78 GB | 951f91992b428385294baf9b6c764d49 |
-
-### Voice Pack
-
-| Language | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| zh-cn | [Audio_Chinese_5.0.0.zip](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/Audio_Chinese_5.0.0.zip) | 14.78 GB | 216b3e53f3c5c7e1290891696b2bbc66 |
-| en-us | [Audio_English(US)_5.0.0.zip](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/Audio_English(US)_5.0.0.zip) | 17.23 GB | ecd59f31ec48c50f9051fdad39603d67 |
-| ko-kr | [Audio_Korean_5.0.0.zip](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/Audio_Korean_5.0.0.zip) | 14.52 GB | 8bf09bd07413189b69a5a0512df97335 |
-| ja-jp | [Audio_Japanese_5.0.0.zip](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240816185649_LtymMnnIZVQfbLZ2/Audio_Japanese_5.0.0.zip) | 19.38 GB | 95efbd23e1bde2eb574f8090cc118109 |
-
-### Client Diff files
-
-| Diff version | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| 4.8.0-5.0.0 | [game_4.8.0_5.0.0_hdiff_wZvKsUhQtnBEutrh.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_4.8.0_5.0.0_hdiff_wZvKsUhQtnBEutrh.zip) | 19.52 GB | ec0cc740e01c374cd53d48219c1a4aff |
-| 4.7.0-5.0.0 | [game_4.7.0_5.0.0_hdiff_yIzQMgpcGyexxigH.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_4.7.0_5.0.0_hdiff_yIzQMgpcGyexxigH.zip) | 23.5 GB | 1589950b2fb98962df67dbde5011f782 |
-
-### Audio Diff files
-
-| Diff version | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| 4.8.0-5.0.0 | [audio_ko-kr_4.8.0_5.0.0_hdiff_gTmBNUAGPpXxrRKC.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_4.8.0_5.0.0_hdiff_gTmBNUAGPpXxrRKC.zip) | 0.6 GB | 64c52d4065a5d5983b37faeb9796a3eb |
-| 4.8.0-5.0.0 | [audio_zh-cn_4.8.0_5.0.0_hdiff_ZZiDHvYQeHGKuFeP.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_4.8.0_5.0.0_hdiff_ZZiDHvYQeHGKuFeP.zip) | 0.63 GB | c1073373d6c7b3680217335dc346de50 |
-| 4.8.0-5.0.0 | [audio_ja-jp_4.8.0_5.0.0_hdiff_LumPhRraNOjGJMnG.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_4.8.0_5.0.0_hdiff_LumPhRraNOjGJMnG.zip) | 0.72 GB | 934899593f7234bec937fca98c0b0bed |
-| 4.8.0-5.0.0 | [audio_en-us_4.8.0_5.0.0_hdiff_vsfAECOkroqoZSqK.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_4.8.0_5.0.0_hdiff_vsfAECOkroqoZSqK.zip) | 0.75 GB | b5cb77749a0e2fc0e85b6b1ee319a7e9 |
-| 4.7.0-5.0.0 | [audio_ko-kr_4.7.0_5.0.0_hdiff_jtnGBZilUVfWRxlB.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_4.7.0_5.0.0_hdiff_jtnGBZilUVfWRxlB.zip) | 0.92 GB | c71685deb67a733059d73072e1199b12 |
-| 4.7.0-5.0.0 | [audio_ja-jp_4.7.0_5.0.0_hdiff_IjbPGEoMTmdwazkV.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_4.7.0_5.0.0_hdiff_IjbPGEoMTmdwazkV.zip) | 1.1 GB | 1601befcfcd638cd7b4aed3091f28155 |
-| 4.7.0-5.0.0 | [audio_zh-cn_4.7.0_5.0.0_hdiff_oiHvhPpyOEfmnCRC.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_4.7.0_5.0.0_hdiff_oiHvhPpyOEfmnCRC.zip) | 0.98 GB | 6d50b43f4b8ae5b3034a22bd51831ca8 |
-| 4.7.0-5.0.0 | [audio_en-us_4.7.0_5.0.0_hdiff_peHdUQzpeMePNdRd.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_4.7.0_5.0.0_hdiff_peHdUQzpeMePNdRd.zip) | 1.17 GB | f2ada108661d82729d2aa6d5acb585ea |
-
-## Pre Download
-
-- **Pre-download version number**: 5.1.0
-### Pre-download Client
 
 | Download link | Package size | MD5 checksum |
 | :---: | :---: | :---: |
@@ -63,7 +19,7 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | [GenshinImpact_5.1.0.zip.006](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240927184459_CVopfb3tD4Zi3As6/GenshinImpact_5.1.0.zip.006) | 10.0 GB | f59a086e986cce9f9e98e2d3c44212c8 |
 | [GenshinImpact_5.1.0.zip.007](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240927184459_CVopfb3tD4Zi3As6/GenshinImpact_5.1.0.zip.007) | 5.94 GB | 0e165aec640ca7025f9d52b0f53a4223 |
 
-### Pre-download Voice Pack
+### Voice Pack
 
 | Language | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
@@ -72,14 +28,14 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | ko-kr | [Audio_Korean_5.1.0.zip](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240927184459_CVopfb3tD4Zi3As6/Audio_Korean_5.1.0.zip) | 12.84 GB | 89f4668220ceaba401244c5d506defeb |
 | ja-jp | [Audio_Japanese_5.1.0.zip](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240927184459_CVopfb3tD4Zi3As6/Audio_Japanese_5.1.0.zip) | 17.0 GB | b2a2d965ccc36b1c583381cf4b3962e9 |
 
-### Pre-download Client Diff files
+### Client Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
 | 5.0.0-5.1.0 | [game_5.0.0_5.1.0_hdiff_YqcpfTRBIuOIwHrO.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.0.0_5.1.0_hdiff_YqcpfTRBIuOIwHrO.zip) | 18.0 GB | 3d628fcde7aaf5b242e253188885ef8d |
 | 4.8.0-5.1.0 | [game_4.8.0_5.1.0_hdiff_GXYqlkIrnPhGxgBL.zip](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_4.8.0_5.1.0_hdiff_GXYqlkIrnPhGxgBL.zip) | 24.95 GB | a69026b5c131b317850de7df162c1f0d |
 
-### Pre-download Audio Diff files
+### Audio Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
