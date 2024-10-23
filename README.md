@@ -50,49 +50,8 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 
 ## Honkai: Star Rail
 
-- **Version number**: 2.5.0
+- **Version number**: 2.6.0
 ### Client
-
-| Download link | Package size | MD5 checksum |
-| :---: | :---: | :---: |
-| [StarRail_2.5.0.7z.001](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.001) | 5.0 GB | A3BF9C436FF5BB3BFA27068D90D9AB66 |
-| [StarRail_2.5.0.7z.002](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.002) | 5.0 GB | B0417E38F0EF071842AAA90282DB0C8C |
-| [StarRail_2.5.0.7z.003](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.003) | 5.0 GB | 03BBB43D259E563D12E39CC66A20ACE3 |
-| [StarRail_2.5.0.7z.004](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.004) | 5.0 GB | A677FA6AB8C5411C734674457EE54560 |
-| [StarRail_2.5.0.7z.005](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.005) | 5.0 GB | 84CDE4477E96017C6585314867D981D8 |
-| [StarRail_2.5.0.7z.006](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.006) | 5.0 GB | C46CA0855AE9B8045B3A60F413AC67D3 |
-| [StarRail_2.5.0.7z.007](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/download/StarRail_2.5.0.7z.007) | 4.18 GB | 4A5FF2712562E00918BA5A304653756B |
-
-### Voice Pack
-
-| Language | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| zh-cn | [Chinese.7z](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Chinese.7z) | 5.28 GB | d806c8f383ceaf3fd3989606ff1d409e |
-| zh-tw | [Chinese.7z](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Chinese.7z) | 5.28 GB | d806c8f383ceaf3fd3989606ff1d409e |
-| en-us | [English.7z](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/English.7z) | 6.28 GB | bdf7c0146584519310c11562909c3a4d |
-| ko-kr | [Korean.7z](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Korean.7z) | 5.31 GB | d8e5df1a5f358b4e1afdc4bf6e8414df |
-| ja-jp | [Japanese.7z](https://autopatchos.starrails.com/client/download/20240829164020_qtk3tKbf0isYIxAo/PC/Japanese.7z) | 6.64 GB | 081bdff8e5adca9bf2acb4fa914192d1 |
-
-### Client Diff files
-
-| Diff version | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| 2.4.0-2.5.0 | [game_2.4.0_2.5.0_hdiff_nLoQceKNfseLLqIF.zip](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.4.0_2.5.0_hdiff_nLoQceKNfseLLqIF.zip) | 11.73 GB | 4434b6e6da0149a82fd26ea0634bf8d3 |
-
-### Audio Diff files
-
-| Diff version | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| 2.4.0-2.5.0 | [audio_zh-cn_2.4.0_2.5.0_hdiff_rYwEpnnswKdxIFeU.zip](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_2.4.0_2.5.0_hdiff_rYwEpnnswKdxIFeU.zip) | 0.39 GB | a17272f658b9dfa2cbaf197fb00c4c61 |
-| 2.4.0-2.5.0 | [audio_zh-tw_2.4.0_2.5.0_hdiff_bJKPfqpQpaJnsmHc.zip](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-tw_2.4.0_2.5.0_hdiff_bJKPfqpQpaJnsmHc.zip) | 0.39 GB | beb4def149897b70cc728728531efce5 |
-| 2.4.0-2.5.0 | [audio_ko-kr_2.4.0_2.5.0_hdiff_aoQvnFCslqAYEViB.zip](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_2.4.0_2.5.0_hdiff_aoQvnFCslqAYEViB.zip) | 0.4 GB | c60e3a628894e5fde4ba88322b28b510 |
-| 2.4.0-2.5.0 | [audio_en-us_2.4.0_2.5.0_hdiff_QIOJHHxEiVLLsdXs.zip](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_2.4.0_2.5.0_hdiff_QIOJHHxEiVLLsdXs.zip) | 0.54 GB | f921d88aa7f491e5b993ecc24cfc1e25 |
-| 2.4.0-2.5.0 | [audio_ja-jp_2.4.0_2.5.0_hdiff_qualQAejXaBJlMxW.zip](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_2.4.0_2.5.0_hdiff_qualQAejXaBJlMxW.zip) | 0.47 GB | bc1a40cc40be9b16b76c5d1b3d87134f |
-
-## Pre Download
-
-- **Pre-download version number**: 2.6.0
-### Pre-download Client
 
 | Download link | Package size | MD5 checksum |
 | :---: | :---: | :---: |
@@ -104,7 +63,7 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | [StarRail_2.6.0.7z.006](https://autopatchos.starrails.com/client/download/20241011184237_pwgabndGDG6wFvbM/PC/download/StarRail_2.6.0.7z.006) | 5.0 GB | 82A2FD07DD19E883492FA076D6E576F0 |
 | [StarRail_2.6.0.7z.007](https://autopatchos.starrails.com/client/download/20241011184237_pwgabndGDG6wFvbM/PC/download/StarRail_2.6.0.7z.007) | 3.02 GB | B801AB7B26E76DF4F5A427F6B102697B |
 
-### Pre-download Voice Pack
+### Voice Pack
 
 | Language | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
@@ -114,13 +73,13 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | ko-kr | [Korean.7z](https://autopatchos.starrails.com/client/download/20241010190408_dBpHKR9R4M5ENpDG/PC/Korean.7z) | 5.59 GB | dc1441ccea9ba1bfabb6cea126ad81ab |
 | ja-jp | [Japanese.7z](https://autopatchos.starrails.com/client/download/20241010190408_dBpHKR9R4M5ENpDG/PC/Japanese.7z) | 6.99 GB | e7cce8f8a4f76cc9cb1ef4272573adb7 |
 
-### Pre-download Client Diff files
+### Client Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
 | 2.5.0-2.6.0 | [game_2.5.0_2.6.0_hdiff_fEJtiFyVrFDUwTFc.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_2.5.0_2.6.0_hdiff_fEJtiFyVrFDUwTFc.7z) | 15.3 GB | 7b9f436ae0851311536384179fd7de03 |
 
-### Pre-download Audio Diff files
+### Audio Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
