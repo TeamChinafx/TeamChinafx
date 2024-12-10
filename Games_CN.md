@@ -151,3 +151,12 @@
 | :---: | :---: | :---: | :---: |
 | 7.9.0-7.9.1 | [game_7.9.0_7.9.1_diff_eKgosBseIgDxwyKn.7z](https://autopatchcn.bh3.com/tmp/pc_client/product/update/bh3_cn/game_7.9.0_7.9.1_diff_eKgosBseIgDxwyKn.7z) | 0.0 GB | f56c5c15375b5c08ab4af93a2b0276a3 |
 
+## 预下载
+
+- **预下载版本号**: 8.0.0
+### 预下载客户端
+
+| 下载链接 | 包大小 | MD5 校验码 |
+| :---: | :---: | :---: |
+| [BH3_v8.0.0_3606071aed85.7z](https://autopatchcn.bh3.com/ptpublic/rel/20241208070032_L5tMaxvchIF0LKZg/PC/BH3_v8.0.0_3606071aed85.7z) | 19.68 GB | abe19df4dc97434f6291053b967903d5 |
+
