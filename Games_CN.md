@@ -138,23 +138,8 @@
 
 ## 崩坏3
 
-- **版本号**: 7.9.1
+- **版本号**: 8.0.0
 ### 客户端
-
-| 下载链接 | 包大小 | MD5 校验码 |
-| :---: | :---: | :---: |
-| [BH3_v7.9.0_37db88484689_m.7z](https://autopatchcn.bh3.com/ptpublic/rel/20241031142146_Q5Xm5aZOG1hPyJZW/PC/BH3_v7.9.0_37db88484689_m.7z) | 19.06 GB | 7c8ce62b48ecdd54c61c5e140f04e008 |
-
-### 客户端差分文件
-
-| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| 7.9.0-7.9.1 | [game_7.9.0_7.9.1_diff_eKgosBseIgDxwyKn.7z](https://autopatchcn.bh3.com/tmp/pc_client/product/update/bh3_cn/game_7.9.0_7.9.1_diff_eKgosBseIgDxwyKn.7z) | 0.0 GB | f56c5c15375b5c08ab4af93a2b0276a3 |
-
-## 预下载
-
-- **预下载版本号**: 8.0.0
-### 预下载客户端
 
 | 下载链接 | 包大小 | MD5 校验码 |
 | :---: | :---: | :---: |
