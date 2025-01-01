@@ -6,52 +6,8 @@
 
 ## 原神
 
-- **版本号**: 5.2.0
+- **版本号**: 5.3.0
 ### 客户端
-
-| 下载链接 | 包大小 | MD5 校验码 |
-| :---: | :---: | :---: |
-| [YuanShen_5.2.0.zip.001](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/YuanShen_5.2.0.zip.001) | 10.0 GB | f0d5619d8521204aabecf90ef4f93d65 |
-| [YuanShen_5.2.0.zip.002](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/YuanShen_5.2.0.zip.002) | 10.0 GB | 238ec74f28111849ea2114f19218f46c |
-| [YuanShen_5.2.0.zip.003](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/YuanShen_5.2.0.zip.003) | 10.0 GB | ebb3764a6e4109589342725e5fedaf47 |
-| [YuanShen_5.2.0.zip.004](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/YuanShen_5.2.0.zip.004) | 10.0 GB | 20268540e0342f3dc0ed3cb846b2e1d0 |
-| [YuanShen_5.2.0.zip.005](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/YuanShen_5.2.0.zip.005) | 10.0 GB | cce837cd8a3d4849d6cf9065438d3bbc |
-| [YuanShen_5.2.0.zip.006](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/YuanShen_5.2.0.zip.006) | 10.0 GB | 5a9d5e00a28e8532c44c18260a57638a |
-| [YuanShen_5.2.0.zip.007](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/YuanShen_5.2.0.zip.007) | 7.24 GB | e92013da90e16fe8da26944674ef826a |
-
-### 语音包
-
-| 语言 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| zh-cn | [Audio_Chinese_5.2.0.zip](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/Audio_Chinese_5.2.0.zip) | 13.42 GB | a3d1e0798810963769a559c2852c2b26 |
-| en-us | [Audio_English(US)_5.2.0.zip](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/Audio_English(US)_5.2.0.zip) | 15.46 GB | 6ccb4ff07eac7e09ccca8f6c0683c34c |
-| ko-kr | [Audio_Korean_5.2.0.zip](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/Audio_Korean_5.2.0.zip) | 13.17 GB | 6d4df3465c06a96f9432efb2b61222c7 |
-| ja-jp | [Audio_Japanese_5.2.0.zip](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/Audio_Japanese_5.2.0.zip) | 17.41 GB | 1809bddb92587ce05a36edd0d2a444ea |
-
-### 客户端差分文件
-
-| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| 5.1.0-5.2.0 | [game_5.1.0_5.2.0_hdiff_grBoNSpIChrUAMud.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/game_5.1.0_5.2.0_hdiff_grBoNSpIChrUAMud.zip) | 16.23 GB | 890d7eee416b5a45f2605dae550172fe |
-| 5.0.0-5.2.0 | [game_5.0.0_5.2.0_hdiff_tDhVNXuyAmtrUOQb.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/game_5.0.0_5.2.0_hdiff_tDhVNXuyAmtrUOQb.zip) | 23.66 GB | e3a674911486174405de56573252725c |
-
-### 语音差分文件
-
-| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| 5.1.0-5.2.0 | [audio_zh-cn_5.1.0_5.2.0_hdiff_YmcHmcSRXCeaTFqg.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_zh-cn_5.1.0_5.2.0_hdiff_YmcHmcSRXCeaTFqg.zip) | 0.27 GB | 78331e67315e8169c89312cf60d58a5e |
-| 5.1.0-5.2.0 | [audio_ko-kr_5.1.0_5.2.0_hdiff_rzWKDBwaFhfEoMDI.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_ko-kr_5.1.0_5.2.0_hdiff_rzWKDBwaFhfEoMDI.zip) | 0.28 GB | f070f7b73729dd29607741b7a4e301ce |
-| 5.1.0-5.2.0 | [audio_ja-jp_5.1.0_5.2.0_hdiff_QyrgahmLjPYFWots.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_ja-jp_5.1.0_5.2.0_hdiff_QyrgahmLjPYFWots.zip) | 0.3 GB | 5b6649aa9ef5ee83ea66db16fe9b9b74 |
-| 5.1.0-5.2.0 | [audio_en-us_5.1.0_5.2.0_hdiff_oIHrItYxSNUNlFeO.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_en-us_5.1.0_5.2.0_hdiff_oIHrItYxSNUNlFeO.zip) | 0.4 GB | 2d363be49b64571f6ee2b328c969d56b |
-| 5.0.0-5.2.0 | [audio_ko-kr_5.0.0_5.2.0_hdiff_QlPWWlHoYAgwwKku.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_ko-kr_5.0.0_5.2.0_hdiff_QlPWWlHoYAgwwKku.zip) | 0.79 GB | 46bd3fe7e434ae4ed746dc798243fe67 |
-| 5.0.0-5.2.0 | [audio_ja-jp_5.0.0_5.2.0_hdiff_XCMgbtIluqGDxrDE.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_ja-jp_5.0.0_5.2.0_hdiff_XCMgbtIluqGDxrDE.zip) | 0.9 GB | 9199d2d7dfb5b4bb29b3809b70ed4625 |
-| 5.0.0-5.2.0 | [audio_zh-cn_5.0.0_5.2.0_hdiff_bflzPhtquwQRgiQU.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_zh-cn_5.0.0_5.2.0_hdiff_bflzPhtquwQRgiQU.zip) | 0.81 GB | 6c4de0a9c120fe2453254260f76994fe |
-| 5.0.0-5.2.0 | [audio_en-us_5.0.0_5.2.0_hdiff_pCAOTzNtDaGsKSGr.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_en-us_5.0.0_5.2.0_hdiff_pCAOTzNtDaGsKSGr.zip) | 0.83 GB | 2e5ef029ddcb29f0c48a87822bac34ac |
-
-## 预下载
-
-- **预下载版本号**: 5.3.0
-### 预下载客户端
 
 | 下载链接 | 包大小 | MD5 校验码 |
 | :---: | :---: | :---: |
@@ -64,7 +20,7 @@
 | [YuanShen_5.3.0.zip.007](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241219110613_vK9mgN3GmQ2Uhp3H/YuanShen_5.3.0.zip.007) | 10.0 GB | 1ca82cda5d96e24245e942b9b1b1b733 |
 | [YuanShen_5.3.0.zip.008](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241219110613_vK9mgN3GmQ2Uhp3H/YuanShen_5.3.0.zip.008) | 0.95 GB | 6663a60a87fdfb1b32e3a441c1c7386a |
 
-### 预下载语音包
+### 语音包
 
 | 语言 | 下载链接 | 大小 | MD5 校验码 |
 | :---: | :---: | :---: | :---: |
@@ -73,14 +29,14 @@
 | ko-kr | [Audio_Korean_5.3.0.zip](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241219110613_vK9mgN3GmQ2Uhp3H/Audio_Korean_5.3.0.zip) | 14.0 GB | 4ede4139552fc231539d60ce463afea6 |
 | ja-jp | [Audio_Japanese_5.3.0.zip](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241219110613_vK9mgN3GmQ2Uhp3H/Audio_Japanese_5.3.0.zip) | 18.44 GB | 97ce919c16751b35e3d00a6b6767b9e5 |
 
-### 预下载客户端差分文件
+### 客户端差分文件
 
 | 差分版本 | 下载链接 | 大小 | MD5 校验码 |
 | :---: | :---: | :---: | :---: |
 | 5.2.0-5.3.0 | [game_5.2.0_5.3.0_hdiff_ytGasWqEaXpmGCWG.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/game_5.2.0_5.3.0_hdiff_ytGasWqEaXpmGCWG.zip) | 17.17 GB | bcedac066eefafb31163715537ff3f66 |
 | 5.1.0-5.3.0 | [game_5.1.0_5.3.0_hdiff_NVpqjmmopOTjwIYs.zip](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/game_5.1.0_5.3.0_hdiff_NVpqjmmopOTjwIYs.zip) | 23.39 GB | 9daec000a857128400af5afcf4e81119 |
 
-### 预下载语音差分文件
+### 语音差分文件
 
 | 差分版本 | 下载链接 | 大小 | MD5 校验码 |
 | :---: | :---: | :---: | :---: |
