@@ -193,3 +193,12 @@
 | :---: | :---: | :---: |
 | [BH3_v8.1.0_2b0009e73965.7z](https://autopatchcn.bh3.com/ptpublic/rel/20250120104717_JKPilwZ9G9BSw6JF/PC/BH3_v8.1.0_2b0009e73965.7z) | 20.35 GB | d2eb8d6db52f542170edacf00f97476f |
 
+## 预下载
+
+- **预下载版本号**: 8.2.0
+### 预下载客户端
+
+| 下载链接 | 包大小 | MD5 校验码 |
+| :---: | :---: | :---: |
+| [BH3_v8.2.0_070c445c9ac0.7z](https://autopatchcn.bh3.com/ptpublic/rel/20250321105946_GHQTTjbASRjRe2s6/PC/BH3_v8.2.0_070c445c9ac0.7z) | 20.33 GB | 9f16eb08a73c55f258b9844ed2095435 |
+
