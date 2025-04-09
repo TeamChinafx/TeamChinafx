@@ -51,51 +51,8 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 
 ## Honkai: Star Rail
 
-- **Version number**: 3.1.0
+- **Version number**: 3.2.0
 ### Client
-
-| Download link | Package size | MD5 checksum |
-| :---: | :---: | :---: |
-| [StarRail_3.1.0.7z.001](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.001) | 5.0 GB | 964DCCE3A25A620FA8B1B49976208601 |
-| [StarRail_3.1.0.7z.002](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.002) | 5.0 GB | 5DF870ED0EE3B9872447919E6A9C3907 |
-| [StarRail_3.1.0.7z.003](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.003) | 5.0 GB | F8C6C3A024FEC9A506ED03B18B080BF5 |
-| [StarRail_3.1.0.7z.004](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.004) | 5.0 GB | 1D3225CE0BFA891362171EC815862CA1 |
-| [StarRail_3.1.0.7z.005](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.005) | 5.0 GB | 7350B2C9D52D75E2D6EADF1B77E81DC0 |
-| [StarRail_3.1.0.7z.006](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.006) | 5.0 GB | B3F42F36B97947636A8C58DC18C17824 |
-| [StarRail_3.1.0.7z.007](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.007) | 5.0 GB | 8275A6341DFFE7FF3D99860BF17A6464 |
-| [StarRail_3.1.0.7z.008](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.008) | 5.0 GB | 72E9BADF771A29401F263F953B847887 |
-| [StarRail_3.1.0.7z.009](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/download/StarRail_3.1.0.7z.009) | 2.54 GB | A2A1529EFA75085E51FEB9B0AF8E5267 |
-
-### Voice Pack
-
-| Language | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| zh-cn | [Chinese.7z](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/Chinese.7z) | 6.65 GB | 2714ee8babece40ca8bbb180a94a2069 |
-| zh-tw | [Chinese.7z](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/Chinese.7z) | 6.65 GB | 2714ee8babece40ca8bbb180a94a2069 |
-| en-us | [English.7z](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/English.7z) | 7.67 GB | 6590989fd52a71cb8a7c50836174935f |
-| ko-kr | [Korean.7z](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/Korean.7z) | 6.56 GB | 9b13080c0b4d92875ed8356c740c4af2 |
-| ja-jp | [Japanese.7z](https://autopatchos.starrails.com/client/download/20250213222029_yggGSkDyveoATToc/PC/Japanese.7z) | 8.21 GB | ca789d7b92a7958d4089242f2933a210 |
-
-### Client Diff files
-
-| Diff version | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| 3.0.0-3.1.0 | [game_3.0.0_3.1.0_hdiff_vOGoBfmLkQqLetkq.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.0.0_3.1.0_hdiff_vOGoBfmLkQqLetkq.7z) | 4.49 GB | 54373708219c819a7f15b259cea5c07b |
-
-### Audio Diff files
-
-| Diff version | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| 3.0.0-3.1.0 | [audio_zh-cn_3.0.0_3.1.0_hdiff_baldQMUdYiGMiedk.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.0.0_3.1.0_hdiff_baldQMUdYiGMiedk.7z) | 0.39 GB | bfbf0dc54d0ab387bcc92ab6f57ecedb |
-| 3.0.0-3.1.0 | [audio_zh-tw_3.0.0_3.1.0_hdiff_tgNpPimpMkBkaeWo.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-tw_3.0.0_3.1.0_hdiff_tgNpPimpMkBkaeWo.7z) | 0.39 GB | 907072ac2b9a6b1d24d2edfe4ef7fe3c |
-| 3.0.0-3.1.0 | [audio_en-us_3.0.0_3.1.0_hdiff_bPvQrSmZRyklzAfl.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.0.0_3.1.0_hdiff_bPvQrSmZRyklzAfl.7z) | 0.39 GB | d0aebbfa4d8495f24b57604f34559850 |
-| 3.0.0-3.1.0 | [audio_ko-kr_3.0.0_3.1.0_hdiff_OFXvoXHAovOnGjiH.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.0.0_3.1.0_hdiff_OFXvoXHAovOnGjiH.7z) | 0.38 GB | ab029bd2281429fbf0d6226858c495fb |
-| 3.0.0-3.1.0 | [audio_ja-jp_3.0.0_3.1.0_hdiff_OuUvtMAowfVEdcHs.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.0.0_3.1.0_hdiff_OuUvtMAowfVEdcHs.7z) | 0.47 GB | bd0a0ff53fb939a4544db56ea141b74f |
-
-## Pre Download
-
-- **Pre-download version number**: 3.2.0
-### Pre-download Client
 
 | Download link | Package size | MD5 checksum |
 | :---: | :---: | :---: |
@@ -109,7 +66,7 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | [StarRail_3.2.0.7z.008](https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.008) | 5.0 GB | 14BE28582C01235BCCD8805B7B1EE27D |
 | [StarRail_3.2.0.7z.009](https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.009) | 4.92 GB | 3096A3DDC8E48309F32B195279EAC196 |
 
-### Pre-download Voice Pack
+### Voice Pack
 
 | Language | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
@@ -118,13 +75,13 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | ko-kr | [Korean.7z](https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/Korean.7z) | 6.99 GB | 39eea79ceb18f92c9756a9691c1bdf62 |
 | ja-jp | [Japanese.7z](https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/Japanese.7z) | 8.74 GB | 7bfd349dd2e6225e05c6d6c949e6f313 |
 
-### Pre-download Client Diff files
+### Client Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
 | 3.1.0-3.2.0 | [game_3.1.0_3.2.0_hdiff_nwqBoBJTfiCBfuGe.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.1.0_3.2.0_hdiff_nwqBoBJTfiCBfuGe.7z) | 4.12 GB | f1c1ce4f485e5cb936ca0877dad0a959 |
 
-### Pre-download Audio Diff files
+### Audio Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
