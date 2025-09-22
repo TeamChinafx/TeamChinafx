@@ -89,6 +89,47 @@
 | 3.4.0-3.5.0 | [audio_ja-jp_3.4.0_3.5.0_hdiff_AuwBkCNDJSSEsAen.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ja-jp_3.4.0_3.5.0_hdiff_AuwBkCNDJSSEsAen.7z) | 0.7 GB | f43308e028d6897c4937153cb625de33 |
 | 3.4.0-3.5.0 | [audio_en-us_3.4.0_3.5.0_hdiff_BUKXQKRewsKDkBXA.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_en-us_3.4.0_3.5.0_hdiff_BUKXQKRewsKDkBXA.7z) | 0.76 GB | 6ad6e6254771294e8c80f3046253eecf |
 
+## 预下载
+
+- **预下载版本号**: 3.6.0
+### 预下载客户端
+
+| 下载链接 | 包大小 | MD5 校验码 |
+| :---: | :---: | :---: |
+| [StarRail_3.6.0.7z.001](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/download/StarRail_3.6.0.7z.001) | 7.0 GB | 92CF6F1924B9C64822C8CCDD88E45F3A |
+| [StarRail_3.6.0.7z.002](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/download/StarRail_3.6.0.7z.002) | 7.0 GB | 618153DCFB67B74E3661EEA1783B4A4B |
+| [StarRail_3.6.0.7z.003](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/download/StarRail_3.6.0.7z.003) | 7.0 GB | 1C224A6DDBE396DAF019AFE12AF6CE62 |
+| [StarRail_3.6.0.7z.004](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/download/StarRail_3.6.0.7z.004) | 7.0 GB | 106766F011F28E059D73C8D45E87A35A |
+| [StarRail_3.6.0.7z.005](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/download/StarRail_3.6.0.7z.005) | 7.0 GB | CC75329A2A67595825B054A67EE87B0E |
+| [StarRail_3.6.0.7z.006](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/download/StarRail_3.6.0.7z.006) | 7.0 GB | E4A776A36160F8FA883E8952636163A3 |
+| [StarRail_3.6.0.7z.007](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/download/StarRail_3.6.0.7z.007) | 7.0 GB | 9F0ACC5B49E114BC1EFD969C3270FE74 |
+| [StarRail_3.6.0.7z.008](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/download/StarRail_3.6.0.7z.008) | 7.0 GB | 7315662D536DAC61D230BBDC276D65A8 |
+| [StarRail_3.6.0.7z.009](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/download/StarRail_3.6.0.7z.009) | 1.02 GB | 7B7EF011AEFC31DC3CB959008352706B |
+
+### 预下载语音包
+
+| 语言 | 下载链接 | 大小 | MD5 校验码 |
+| :---: | :---: | :---: | :---: |
+| zh-cn | [Chinese.7z](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/Chinese.7z) | 8.74 GB | f738e806b1fa4d4a466a8e8f7f06fb8b |
+| en-us | [English.7z](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/English.7z) | 10.42 GB | 77b8739f092b663391f3324f97c017b0 |
+| ja-jp | [Japanese.7z](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/Japanese.7z) | 10.74 GB | 0aa022f8d605d20f182f815c4fae1e6d |
+| ko-kr | [Korean.7z](https://autopatchcn.bhsr.com/client/cn/20250913163925_dgTMhCJ7OUmyjlsh/PC/Korean.7z) | 8.62 GB | 8433ab3620d36ece5c955f9f1731e31d |
+
+### 预下载客户端差分文件
+
+| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
+| :---: | :---: | :---: | :---: |
+| 3.5.0-3.6.0 | [game_3.5.0_3.6.0_hdiff_gsgfkohFiNdmenRa.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/game_3.5.0_3.6.0_hdiff_gsgfkohFiNdmenRa.7z) | 17.71 GB | 00afec601ff7a7f7e641dbf0bb181ec6 |
+
+### 预下载语音差分文件
+
+| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
+| :---: | :---: | :---: | :---: |
+| 3.5.0-3.6.0 | [audio_zh-cn_3.5.0_3.6.0_hdiff_RdgUYTTQyzClDeTm.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_zh-cn_3.5.0_3.6.0_hdiff_RdgUYTTQyzClDeTm.7z) | 0.29 GB | 88f6f5176fb115ea014af5870c77b1b6 |
+| 3.5.0-3.6.0 | [audio_ko-kr_3.5.0_3.6.0_hdiff_FyGKqnaQxpaudPuZ.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ko-kr_3.5.0_3.6.0_hdiff_FyGKqnaQxpaudPuZ.7z) | 0.29 GB | b86dba32283b672599f5d939541f309e |
+| 3.5.0-3.6.0 | [audio_ja-jp_3.5.0_3.6.0_hdiff_yQVPNjdXxBfzjtUW.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ja-jp_3.5.0_3.6.0_hdiff_yQVPNjdXxBfzjtUW.7z) | 0.36 GB | cd20cdceb51177e882ccc0df4caf5474 |
+| 3.5.0-3.6.0 | [audio_en-us_3.5.0_3.6.0_hdiff_BEyyaZjWjSzQLfgh.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_en-us_3.5.0_3.6.0_hdiff_BEyyaZjWjSzQLfgh.7z) | 0.47 GB | 5898955df1ec2e272b46daa2afa3bd93 |
+
 ## 绝区零
 
 - **版本号**: 2.2.0
