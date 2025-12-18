@@ -51,44 +51,45 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 
 ## Honkai: Star Rail
 
-- **Version number**: 3.7.0
+- **Version number**: 3.8.0
 ### Client
 
 | Download link | Package size | MD5 checksum |
 | :---: | :---: | :---: |
-| [StarRail_3.7.0.7z.001](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.001) | 7.0 GB | 0DD3FA1A487216D51BAB795B5711F88B |
-| [StarRail_3.7.0.7z.002](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.002) | 7.0 GB | 60741DDD3063B333390E27F5A02CB61E |
-| [StarRail_3.7.0.7z.003](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.003) | 7.0 GB | C59C1008408D9FAB39CAF79E8414DF1B |
-| [StarRail_3.7.0.7z.004](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.004) | 7.0 GB | EFF8F50667AB63934571C023D4387115 |
-| [StarRail_3.7.0.7z.005](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.005) | 7.0 GB | D5E8960F0C72B325D504DBF0A196F865 |
-| [StarRail_3.7.0.7z.006](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.006) | 7.0 GB | 1B490C55678AC7B0FB2AA4367110B661 |
-| [StarRail_3.7.0.7z.007](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.007) | 7.0 GB | 3168DD8E4999A371E15DFF5076F8F08A |
-| [StarRail_3.7.0.7z.008](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.008) | 7.0 GB | 6FB8E713AF52BB718290F25DC33A89E4 |
-| [StarRail_3.7.0.7z.009](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/download/StarRail_3.7.0.7z.009) | 5.5 GB | 3641657B36692C507DF57A8616A28F12 |
+| [StarRail_3.8.0.7z.001](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.001) | 7.0 GB | 315E91E613427193A9A593C8BED90DE5 |
+| [StarRail_3.8.0.7z.002](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.002) | 7.0 GB | E47B557051F33ABA037D57160AACAC07 |
+| [StarRail_3.8.0.7z.003](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.003) | 7.0 GB | 631452C76EB3AA92952767BDE45D1490 |
+| [StarRail_3.8.0.7z.004](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.004) | 7.0 GB | 7DE5DA0DB1242585340889ACBDBDEFFE |
+| [StarRail_3.8.0.7z.005](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.005) | 7.0 GB | 24387778B2B7A71A1DE2707BA1F14972 |
+| [StarRail_3.8.0.7z.006](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.006) | 7.0 GB | FBAB766D9AEAD0E352F155CAACC48C5D |
+| [StarRail_3.8.0.7z.007](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.007) | 7.0 GB | 96A7C0CA928BB018B43362FAF0249BE9 |
+| [StarRail_3.8.0.7z.008](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.008) | 7.0 GB | ACC7A24AC08647ABD257A89BBB511419 |
+| [StarRail_3.8.0.7z.009](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.009) | 7.0 GB | D797A47E2F260BA15168AB455175F7D1 |
+| [StarRail_3.8.0.7z.010](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/download/StarRail_3.8.0.7z.010) | 1.54 GB | 2D1DC42C4F811A9E34D863ED979B3EAB |
 
 ### Voice Pack
 
 | Language | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
-| zh-cn | [Chinese.7z](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/Chinese.7z) | 9.1 GB | 56cfb82ddb58f3df83f291ec71b783da |
-| en-us | [English.7z](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/English.7z) | 10.89 GB | 1d871f3ec728f0cb19324b10f2eea98e |
-| ja-jp | [Japanese.7z](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/Japanese.7z) | 11.17 GB | 5dfaaa057d95fa734af25f9e7635ab5c |
-| ko-kr | [Korean.7z](https://autopatchos.starrails.com/client/download/20251024193614_3K9lSdJSJFRNQbYl/PC/Korean.7z) | 8.98 GB | a2da0d9364736abfa124a7a9d32d72df |
+| zh-cn | [Chinese.7z](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/Chinese.7z) | 9.35 GB | 9b74f41aa5c0da28c110596c732e6c29 |
+| en-us | [English.7z](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/English.7z) | 11.22 GB | 4c39d0c1649fcdcfd490a342e2580acd |
+| ja-jp | [Japanese.7z](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/Japanese.7z) | 11.49 GB | 27a7ca1075928b9e9671fce65d441aa8 |
+| ko-kr | [Korean.7z](https://autopatchos.starrails.com/client/download/20251205193808_UzpDBZwOgq3FHRJi/PC/Korean.7z) | 9.22 GB | 0410c02339028adec2d3178c8e0cda42 |
 
 ### Client Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
-| 3.6.0-3.7.0 | [game_3.6.0_3.7.0_hdiff_VPZKeDpLeutzfNJZ.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.6.0_3.7.0_hdiff_VPZKeDpLeutzfNJZ.7z) | 5.06 GB | e2c5df490512ee025019d17365ad7813 |
+| 3.7.0-3.8.0 | [game_3.7.0_3.8.0_hdiff_KiKnxNqiDaRpvwmf.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.7.0_3.8.0_hdiff_KiKnxNqiDaRpvwmf.7z) | 4.61 GB | 3cc5a64cec6cd63838b42c6967b5d5e4 |
 
 ### Audio Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
-| 3.6.0-3.7.0 | [audio_zh-cn_3.6.0_3.7.0_hdiff_RfQqkYYHbqepLoKx.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.6.0_3.7.0_hdiff_RfQqkYYHbqepLoKx.7z) | 0.35 GB | aaed03ea214e24daf59852e404ee6515 |
-| 3.6.0-3.7.0 | [audio_ko-kr_3.6.0_3.7.0_hdiff_FKvAlnFZvrmmwHUZ.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.6.0_3.7.0_hdiff_FKvAlnFZvrmmwHUZ.7z) | 0.36 GB | 3620e3f9d7a82539eb7794d869403809 |
-| 3.6.0-3.7.0 | [audio_ja-jp_3.6.0_3.7.0_hdiff_xzaZAiDFByDkkaEm.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.6.0_3.7.0_hdiff_xzaZAiDFByDkkaEm.7z) | 0.45 GB | 689baa0e31a54ab4080e8bd1f821a622 |
-| 3.6.0-3.7.0 | [audio_en-us_3.6.0_3.7.0_hdiff_PApwXAakzPVgqvLj.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.6.0_3.7.0_hdiff_PApwXAakzPVgqvLj.7z) | 0.49 GB | 1c4987da4411d4169131e647df323f43 |
+| 3.7.0-3.8.0 | [audio_zh-cn_3.7.0_3.8.0_hdiff_ByWIdKvLwxENgFGQ.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.7.0_3.8.0_hdiff_ByWIdKvLwxENgFGQ.7z) | 0.25 GB | 5eb4ab0160b94f14486ecf5c1da48cc2 |
+| 3.7.0-3.8.0 | [audio_ko-kr_3.7.0_3.8.0_hdiff_uQlXfkXEEZGtSsZN.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.7.0_3.8.0_hdiff_uQlXfkXEEZGtSsZN.7z) | 0.24 GB | cb90718d141b39f0928a50e0db7f9ed4 |
+| 3.7.0-3.8.0 | [audio_ja-jp_3.7.0_3.8.0_hdiff_VlRamHsmcpgkyBVx.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.7.0_3.8.0_hdiff_VlRamHsmcpgkyBVx.7z) | 0.32 GB | 4e1394d510a9b1f86d7b6be07b352633 |
+| 3.7.0-3.8.0 | [audio_en-us_3.7.0_3.8.0_hdiff_OXxQQUcSCXVpBhwf.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_3.7.0_3.8.0_hdiff_OXxQQUcSCXVpBhwf.7z) | 0.34 GB | e16402c9b3c9b8ac32712dd8acb3a537 |
 
 ## Zenless Zone Zero
 
