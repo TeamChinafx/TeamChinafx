@@ -93,55 +93,8 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 
 ## Zenless Zone Zero
 
-- **Version number**: 2.5.0
+- **Version number**: 2.6.0
 ### Client
-
-| Download link | Package size | MD5 checksum |
-| :---: | :---: | :---: |
-| [ZenlessZoneZero_2.5.0_AS.zip.001](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.001) | 6.04 GB | C4DA0C5ADCF527A4E115859FEEE138A8 |
-| [ZenlessZoneZero_2.5.0_AS.zip.002](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.002) | 6.04 GB | E3A772878D58C3FC2D523D437E7C97DE |
-| [ZenlessZoneZero_2.5.0_AS.zip.003](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.003) | 6.04 GB | B3509ED6010C3B545325F4B9290CAB1E |
-| [ZenlessZoneZero_2.5.0_AS.zip.004](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.004) | 6.04 GB | 3EDE5BB8BAAF1EA7132EFD3B60EFD918 |
-| [ZenlessZoneZero_2.5.0_AS.zip.005](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.005) | 6.04 GB | 8DE0673ABB0DFBD3D236AA91B2B9A790 |
-| [ZenlessZoneZero_2.5.0_AS.zip.006](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.006) | 6.04 GB | 45FCE141FACE18E95417A6E1B92E6AD3 |
-| [ZenlessZoneZero_2.5.0_AS.zip.007](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.007) | 6.04 GB | 172C96E7C27C401F9513D28DF1739BC1 |
-| [ZenlessZoneZero_2.5.0_AS.zip.008](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.008) | 6.04 GB | B25578C0A5E12741776E3563125C70E7 |
-| [ZenlessZoneZero_2.5.0_AS.zip.009](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.009) | 6.04 GB | 1D8F985207D60EC973B42B3A47ECFF09 |
-| [ZenlessZoneZero_2.5.0_AS.zip.010](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/VolumeZip/ZenlessZoneZero_2.5.0_AS.zip.010) | 6.04 GB | C333B01EF8CF8C20D6C96CADBE6A9BD0 |
-
-### Voice Pack
-
-| Language | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| zh-cn | [audio_zip_Cn.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/audio_zip_Cn.zip) | 2.75 GB | 415355818e201434a22d0af277ead29d |
-| en-us | [audio_zip_En.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/audio_zip_En.zip) | 2.88 GB | 154d0516d27e81a3f5ddc2e86073d443 |
-| ja-jp | [audio_zip_Jp.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/audio_zip_Jp.zip) | 3.2 GB | 1136d142d7f4db0ea8dde61d3621f78b |
-| ko-kr | [audio_zip_Kr.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20251211102134_5R2bpmZ6U1wL4lmz/audio_zip_Kr.zip) | 3.05 GB | 515c4ee7c9a67351d8c832ebeea131da |
-
-### Client Diff files
-
-| Diff version | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| 2.4.0-2.5.0 | [game_2.4.0_2.5.0_hdiff_uSTszooUUwzsBsoT.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.4.0_2.5.0_hdiff_uSTszooUUwzsBsoT.zip) | 15.71 GB | d3052b3f28db1f558829340b23fe4990 |
-| 2.3.0-2.5.0 | [game_2.3.0_2.5.0_hdiff_hbhbWMtUowaouPnq.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.3.0_2.5.0_hdiff_hbhbWMtUowaouPnq.zip) | 18.33 GB | a119932de43b56485d12176f485f8d17 |
-
-### Audio Diff files
-
-| Diff version | Download link | Size | MD5 checksum |
-| :---: | :---: | :---: | :---: |
-| 2.4.0-2.5.0 | [audio_en-us_2.4.0_2.5.0_hdiff_aLDxOhpybzLhdzqv.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.4.0_2.5.0_hdiff_aLDxOhpybzLhdzqv.zip) | 0.89 GB | 7a0b1f782fa1eeee99f776ae73f79a08 |
-| 2.4.0-2.5.0 | [audio_zh-cn_2.4.0_2.5.0_hdiff_RdBOdpodhWODWnZJ.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.4.0_2.5.0_hdiff_RdBOdpodhWODWnZJ.zip) | 0.94 GB | ba563c2b810efd794c0695e8babdadc7 |
-| 2.4.0-2.5.0 | [audio_ja-jp_2.4.0_2.5.0_hdiff_EvSHfUGuQRyGWzxS.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.4.0_2.5.0_hdiff_EvSHfUGuQRyGWzxS.zip) | 1.05 GB | ef7af992896f486154cb87d53155a54b |
-| 2.4.0-2.5.0 | [audio_ko-kr_2.4.0_2.5.0_hdiff_iRwfwDxEFcrSLIfm.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.4.0_2.5.0_hdiff_iRwfwDxEFcrSLIfm.zip) | 0.99 GB | 78b09236a18834f13353f11b1c9accad |
-| 2.3.0-2.5.0 | [audio_zh-cn_2.3.0_2.5.0_hdiff_iPtpISAnygaGXEIB.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_2.3.0_2.5.0_hdiff_iPtpISAnygaGXEIB.zip) | 1.03 GB | a6e0285743e886b7d477dc8278a26434 |
-| 2.3.0-2.5.0 | [audio_en-us_2.3.0_2.5.0_hdiff_lFFetDfiHrRBUHst.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_2.3.0_2.5.0_hdiff_lFFetDfiHrRBUHst.zip) | 1.05 GB | 18fab48a4dd03df42bc208e358519872 |
-| 2.3.0-2.5.0 | [audio_ja-jp_2.3.0_2.5.0_hdiff_QOxbAdjOusQerRUU.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_2.3.0_2.5.0_hdiff_QOxbAdjOusQerRUU.zip) | 1.18 GB | bccae5b9dac6be3cc6154ae4ed86dc8f |
-| 2.3.0-2.5.0 | [audio_ko-kr_2.3.0_2.5.0_hdiff_CWHaxPlMHtNbKmpe.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_2.3.0_2.5.0_hdiff_CWHaxPlMHtNbKmpe.zip) | 1.14 GB | ab33dd719eacd563af5bf6e96f9b5cb4 |
-
-## Pre Download
-
-- **Pre-download version number**: 2.6.0
-### Pre-download Client
 
 | Download link | Package size | MD5 checksum |
 | :---: | :---: | :---: |
@@ -156,7 +109,7 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | [ZenlessZoneZero_2.6.0_AS.zip.009](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.009) | 6.15 GB | F7E3189EF8979E8FF4E170D5750CDE27 |
 | [ZenlessZoneZero_2.6.0_AS.zip.010](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/VolumeZip/ZenlessZoneZero_2.6.0_AS.zip.010) | 6.15 GB | 1B7364587B652DBE6DF2E7863B9B16F3 |
 
-### Pre-download Voice Pack
+### Voice Pack
 
 | Language | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
@@ -165,14 +118,14 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | ja-jp | [audio_zip_Jp.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/audio_zip_Jp.zip) | 3.42 GB | 34a33634d89a3109efacfebcaa6fa7c9 |
 | ko-kr | [audio_zip_Kr.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260120112953_xXoIrAlHW41h2hPg/audio_zip_Kr.zip) | 3.25 GB | 0eba511e8d547c588224f14459429031 |
 
-### Pre-download Client Diff files
+### Client Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
 | 2.4.0-2.6.0 | [game_2.4.0_2.6.0_hdiff_QHOqULqfyPFBKahs.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.4.0_2.6.0_hdiff_QHOqULqfyPFBKahs.zip) | 19.8 GB | f52c39454ce0ab82a8715c0753da0db0 |
 | 2.5.0-2.6.0 | [game_2.5.0_2.6.0_hdiff_OPZEMYLSXlPNfITQ.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_2.5.0_2.6.0_hdiff_OPZEMYLSXlPNfITQ.zip) | 7.32 GB | 19e859ea2503aab6de27d449f34b9449 |
 
-### Pre-download Audio Diff files
+### Audio Diff files
 
 | Diff version | Download link | Size | MD5 checksum |
 | :---: | :---: | :---: | :---: |
