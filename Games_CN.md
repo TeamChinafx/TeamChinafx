@@ -51,51 +51,8 @@
 
 ## 崩坏：星穹铁道
 
-- **版本号**: 4.1.0
+- **版本号**: 4.2.0
 ### 客户端
-
-| 下载链接 | 包大小 | MD5 校验码 |
-| :---: | :---: | :---: |
-| [StarRail_4.1.0.7z.001](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.001) | 7.0 GB | ECC83418127A65EC6D30C2266F5A53A6 |
-| [StarRail_4.1.0.7z.002](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.002) | 7.0 GB | E28A488E925D2E205B351D293E2EEF11 |
-| [StarRail_4.1.0.7z.003](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.003) | 7.0 GB | 8BFC6390E6696B55729CCCC3D9A58E31 |
-| [StarRail_4.1.0.7z.004](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.004) | 7.0 GB | 741D0E623E1D5A77A542E6BAA92F3F6E |
-| [StarRail_4.1.0.7z.005](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.005) | 7.0 GB | ACA31872DE809713406980FF13905C9A |
-| [StarRail_4.1.0.7z.006](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.006) | 7.0 GB | 7FC37C4CFED3969F9E2336E8459F5AE8 |
-| [StarRail_4.1.0.7z.007](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.007) | 7.0 GB | 6ACEFF72DF29FB45430C7C76C96A82C6 |
-| [StarRail_4.1.0.7z.008](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.008) | 7.0 GB | C207B1503F189AAC062AC7260504E9B0 |
-| [StarRail_4.1.0.7z.009](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.009) | 7.0 GB | 4B0A4D5AFAF992518D42B08B44B357FB |
-| [StarRail_4.1.0.7z.010](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.010) | 7.0 GB | 64F80328F320300D4556EB7E9BB599B3 |
-| [StarRail_4.1.0.7z.011](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/download/StarRail_4.1.0.7z.011) | 5.38 GB | 0328EB0B24208FBC4FBC2BFC885906EC |
-
-### 语音包
-
-| 语言 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| zh-cn | [Chinese.7z](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/Chinese.7z) | 9.83 GB | 6b3594b9f89adbc3c5667dbc7b0cb896 |
-| en-us | [English.7z](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/English.7z) | 11.85 GB | 6a3598da6602b5fa6972a75531f33ce0 |
-| ja-jp | [Japanese.7z](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/Japanese.7z) | 12.12 GB | a1063866268ffb9a3aa52d9994ff282a |
-| ko-kr | [Korean.7z](https://autopatchcn.bhsr.com/client/cn/20260313155616_cP7atEVtiQSKCLy4/PC/Korean.7z) | 9.72 GB | 4a1776335d81b1ab752e032a61d44c22 |
-
-### 客户端差分文件
-
-| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| 4.0.0-4.1.0 | [game_4.0.0_4.1.0_hdiff_IZpiCXYscMickCSo.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/game_4.0.0_4.1.0_hdiff_IZpiCXYscMickCSo.7z) | 4.43 GB | 4be73d762121865d0f98ccc6f5056b81 |
-
-### 语音差分文件
-
-| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| 4.0.0-4.1.0 | [audio_zh-cn_4.0.0_4.1.0_hdiff_pPBlKVEDJnCriZnt.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_zh-cn_4.0.0_4.1.0_hdiff_pPBlKVEDJnCriZnt.7z) | 0.04 GB | 0b3ba7adbb1988d9e5f1b4f124dd8b9f |
-| 4.0.0-4.1.0 | [audio_ko-kr_4.0.0_4.1.0_hdiff_BgGrCbfDoGnfIPEF.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ko-kr_4.0.0_4.1.0_hdiff_BgGrCbfDoGnfIPEF.7z) | 0.05 GB | dd13234b943c60e673567dd5819bb8c3 |
-| 4.0.0-4.1.0 | [audio_ja-jp_4.0.0_4.1.0_hdiff_EtoQQLACmfNKLhgW.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ja-jp_4.0.0_4.1.0_hdiff_EtoQQLACmfNKLhgW.7z) | 0.06 GB | f36f454056567c82fb6e76de78b496a1 |
-| 4.0.0-4.1.0 | [audio_en-us_4.0.0_4.1.0_hdiff_VRVaxvNiSbRbLykE.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_en-us_4.0.0_4.1.0_hdiff_VRVaxvNiSbRbLykE.7z) | 0.07 GB | 51670ff004a57384245f97b29ec7d069 |
-
-## 预下载
-
-- **预下载版本号**: 4.2.0
-### 预下载客户端
 
 | 下载链接 | 包大小 | MD5 校验码 |
 | :---: | :---: | :---: |
@@ -112,7 +69,7 @@
 | [StarRail_4.2.0.7z.011](https://autopatchcn.bhsr.com/client/cn/20260416111723_yjnthyEQoyS8Mw8v/PC/download/StarRail_4.2.0.7z.011) | 7.0 GB | 588F45E32A45211F00A53D5123BC42CF |
 | [StarRail_4.2.0.7z.012](https://autopatchcn.bhsr.com/client/cn/20260416111723_yjnthyEQoyS8Mw8v/PC/download/StarRail_4.2.0.7z.012) | 1.19 GB | 655DB87E1452027635E40DEEB99ADB73 |
 
-### 预下载语音包
+### 语音包
 
 | 语言 | 下载链接 | 大小 | MD5 校验码 |
 | :---: | :---: | :---: | :---: |
@@ -121,13 +78,13 @@
 | ja-jp | [Japanese.7z](https://autopatchcn.bhsr.com/client/cn/20260416111723_yjnthyEQoyS8Mw8v/PC/Japanese.7z) | 12.58 GB | 85fc517c85c8dfb055b25304052d1075 |
 | ko-kr | [Korean.7z](https://autopatchcn.bhsr.com/client/cn/20260416111723_yjnthyEQoyS8Mw8v/PC/Korean.7z) | 10.09 GB | 1b528938913e00597f399ea9a1359f65 |
 
-### 预下载客户端差分文件
+### 客户端差分文件
 
 | 差分版本 | 下载链接 | 大小 | MD5 校验码 |
 | :---: | :---: | :---: | :---: |
 | 4.1.0-4.2.0 | [game_4.1.0_4.2.0_hdiff_zqqJyhivbKMPEVOT.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/game_4.1.0_4.2.0_hdiff_zqqJyhivbKMPEVOT.7z) | 3.88 GB | 1ff1aad86d1a26b85892c152676ddc50 |
 
-### 预下载语音差分文件
+### 语音差分文件
 
 | 差分版本 | 下载链接 | 大小 | MD5 校验码 |
 | :---: | :---: | :---: | :---: |
