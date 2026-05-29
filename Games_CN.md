@@ -93,6 +93,50 @@
 | 4.1.0-4.2.0 | [audio_ja-jp_4.1.0_4.2.0_hdiff_cKuCcBvlWGdemOQZ.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ja-jp_4.1.0_4.2.0_hdiff_cKuCcBvlWGdemOQZ.7z) | 0.46 GB | e7be8cbcd8daf7fc08be4ac0ed9a60a9 |
 | 4.1.0-4.2.0 | [audio_en-us_4.1.0_4.2.0_hdiff_tIpTLZLhrcIIwJhx.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_en-us_4.1.0_4.2.0_hdiff_tIpTLZLhrcIIwJhx.7z) | 0.5 GB | f5980a849961854e9c79709f31cfe186 |
 
+## 预下载
+
+- **预下载版本号**: 4.3.0
+### 预下载客户端
+
+| 下载链接 | 包大小 | MD5 校验码 |
+| :---: | :---: | :---: |
+| [StarRail_4.3.0.7z.001](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.001) | 7.0 GB | 24541D290155D0001E154705FA0EBB60 |
+| [StarRail_4.3.0.7z.002](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.002) | 7.0 GB | 1DA561368C9B6CA5A5084C76C0438A6D |
+| [StarRail_4.3.0.7z.003](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.003) | 7.0 GB | 266674BF8E31671B0A872DA43E312727 |
+| [StarRail_4.3.0.7z.004](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.004) | 7.0 GB | 8A32CD4BD2ABC23B7CF4F16ACB3355F2 |
+| [StarRail_4.3.0.7z.005](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.005) | 7.0 GB | E132EF47E4BFA9D5E97200136236F4A7 |
+| [StarRail_4.3.0.7z.006](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.006) | 7.0 GB | 8F879ABA9C2EEABEF9FECE0EF8A7794C |
+| [StarRail_4.3.0.7z.007](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.007) | 7.0 GB | 36CF1F0A2474421B9C08A1B931939F65 |
+| [StarRail_4.3.0.7z.008](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.008) | 7.0 GB | 3E203DB48D7C64FD014232596F6C51F2 |
+| [StarRail_4.3.0.7z.009](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.009) | 7.0 GB | 2BB15288E60C669634D55F30C2999288 |
+| [StarRail_4.3.0.7z.010](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.010) | 7.0 GB | 4128D251D0637DEC7FE47EC357FC0298 |
+| [StarRail_4.3.0.7z.011](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.011) | 7.0 GB | 0683AD11684C3427FA6823DE5F08BEDA |
+| [StarRail_4.3.0.7z.012](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/download/StarRail_4.3.0.7z.012) | 2.73 GB | CEF4B39BE4B0A4EB3B647E9B4E1FCC2F |
+
+### 预下载语音包
+
+| 语言 | 下载链接 | 大小 | MD5 校验码 |
+| :---: | :---: | :---: | :---: |
+| zh-cn | [Chinese.7z](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/Chinese.7z) | 10.44 GB | 0adef6189d707b767947fbbd84d90721 |
+| en-us | [English.7z](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/English.7z) | 12.67 GB | 47346fa9a47e1bd50571978e837776f4 |
+| ja-jp | [Japanese.7z](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/Japanese.7z) | 12.89 GB | 391fdec454f34294b2621886cd62b6e6 |
+| ko-kr | [Korean.7z](https://autopatchcn.bhsr.com/client/cn/20260523104353_kjwMxQcpFWHse2S2/PC/Korean.7z) | 10.33 GB | ee050d991b602583e8a04fb5f4c7cc63 |
+
+### 预下载客户端差分文件
+
+| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
+| :---: | :---: | :---: | :---: |
+| 4.2.0-4.3.0 | [game_4.2.0_4.3.0_hdiff_WSStspRrYeEUajip.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/game_4.2.0_4.3.0_hdiff_WSStspRrYeEUajip.7z) | 3.1 GB | 41ea9ad8814f2b9149bc829b907f1554 |
+
+### 预下载语音差分文件
+
+| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
+| :---: | :---: | :---: | :---: |
+| 4.2.0-4.3.0 | [audio_zh-cn_4.2.0_4.3.0_hdiff_NtpLqsvNvjgCpkYm.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_zh-cn_4.2.0_4.3.0_hdiff_NtpLqsvNvjgCpkYm.7z) | 0.24 GB | ea839ce5bd73c917ba568e84bfb61cff |
+| 4.2.0-4.3.0 | [audio_ko-kr_4.2.0_4.3.0_hdiff_JBXsbMyeScEVlAoC.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ko-kr_4.2.0_4.3.0_hdiff_JBXsbMyeScEVlAoC.7z) | 0.24 GB | 3cf9a58e0df0fd4d85283fafb7b8f507 |
+| 4.2.0-4.3.0 | [audio_ja-jp_4.2.0_4.3.0_hdiff_hueyEmMzTOsGJmEy.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ja-jp_4.2.0_4.3.0_hdiff_hueyEmMzTOsGJmEy.7z) | 0.31 GB | 66697da566abb01527d86477f3c0ffbe |
+| 4.2.0-4.3.0 | [audio_en-us_4.2.0_4.3.0_hdiff_EcuodHplxgCygjdq.7z](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_en-us_4.2.0_4.3.0_hdiff_EcuodHplxgCygjdq.7z) | 0.43 GB | e0d5d8e5f866a807dfd3c554cc57cacd |
+
 ## 绝区零
 
 - **版本号**: 2.8.0
