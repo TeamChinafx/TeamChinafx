@@ -95,55 +95,8 @@
 
 ## 绝区零
 
-- **版本号**: 2.8.0
+- **版本号**: 3.0.0
 ### 客户端
-
-| 下载链接 | 包大小 | MD5 校验码 |
-| :---: | :---: | :---: |
-| [juequling_2.8.0_AS.zip.001](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.001) | 6.34 GB | E7253FB12EA914C3F0752F00B1E3B1A4 |
-| [juequling_2.8.0_AS.zip.002](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.002) | 6.34 GB | F06508B0014E8430319260EDFE4DDFFB |
-| [juequling_2.8.0_AS.zip.003](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.003) | 6.34 GB | F377DE3CF1ACD9A436BC5C46A51C1CCB |
-| [juequling_2.8.0_AS.zip.004](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.004) | 6.34 GB | 7FE02B09CF3214DCA9239251BBCE2197 |
-| [juequling_2.8.0_AS.zip.005](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.005) | 6.34 GB | C903E4A0A2AA8F47E61E9A83FFC57C19 |
-| [juequling_2.8.0_AS.zip.006](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.006) | 6.34 GB | B2668676659213AEBF9FFB961D457367 |
-| [juequling_2.8.0_AS.zip.007](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.007) | 6.34 GB | F27C19C506C13918F4FB042A52721175 |
-| [juequling_2.8.0_AS.zip.008](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.008) | 6.34 GB | C7AA8AAEEC0B680D3FC962B5451FDE59 |
-| [juequling_2.8.0_AS.zip.009](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.009) | 6.34 GB | 43A9DA16796CEBF7E42EE257B4B06349 |
-| [juequling_2.8.0_AS.zip.010](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/VolumeZip/juequling_2.8.0_AS.zip.010) | 6.33 GB | 34CB74417466503E7D2D751C9C62734F |
-
-### 语音包
-
-| 语言 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| zh-cn | [audio_zip_Cn.zip](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/audio_zip_Cn.zip) | 3.28 GB | 424fe327633d9410e6dedb3f06ef0791 |
-| en-us | [audio_zip_En.zip](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/audio_zip_En.zip) | 3.49 GB | 780ef180c94b3a29a0775f927e0b458a |
-| ja-jp | [audio_zip_Jp.zip](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/audio_zip_Jp.zip) | 3.88 GB | 32990879a8f47be88d7107f5138e243a |
-| ko-kr | [audio_zip_Kr.zip](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260414105950_rr7gTcyn3lXs6uYV/audio_zip_Kr.zip) | 3.62 GB | 8c5349755f21a232cf21669d00b9e1f2 |
-
-### 客户端差分文件
-
-| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| 2.7.0-2.8.0 | [game_2.7.0_2.8.0_hdiff_YvTwoQByrAEBynis.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/game_2.7.0_2.8.0_hdiff_YvTwoQByrAEBynis.zip) | 7.62 GB | bd987bba9ea9079db59d8d649817f1d7 |
-| 2.6.0-2.8.0 | [game_2.6.0_2.8.0_hdiff_VFngqqDIkbgHeZaq.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/game_2.6.0_2.8.0_hdiff_VFngqqDIkbgHeZaq.zip) | 9.08 GB | 14d57d4bbc0251bfffd911b5bbca36fe |
-
-### 语音差分文件
-
-| 差分版本 | 下载链接 | 大小 | MD5 校验码 |
-| :---: | :---: | :---: | :---: |
-| 2.7.0-2.8.0 | [audio_zh-cn_2.7.0_2.8.0_hdiff_JZjldcEIckNsLwop.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_zh-cn_2.7.0_2.8.0_hdiff_JZjldcEIckNsLwop.zip) | 0.43 GB | 9441b97fc475d2f99f8387b8b47ad645 |
-| 2.7.0-2.8.0 | [audio_ja-jp_2.7.0_2.8.0_hdiff_QzznxJJkWWCxlkoX.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ja-jp_2.7.0_2.8.0_hdiff_QzznxJJkWWCxlkoX.zip) | 0.55 GB | 16e61a2a1a5fef4cf89e778a250040c2 |
-| 2.7.0-2.8.0 | [audio_ko-kr_2.7.0_2.8.0_hdiff_HXdxJBruXuRFiNUj.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ko-kr_2.7.0_2.8.0_hdiff_HXdxJBruXuRFiNUj.zip) | 0.53 GB | 54edc7500a476d99cfe35fced40cf68a |
-| 2.7.0-2.8.0 | [audio_en-us_2.7.0_2.8.0_hdiff_PPSHVSUBqbKGeHSX.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_en-us_2.7.0_2.8.0_hdiff_PPSHVSUBqbKGeHSX.zip) | 0.52 GB | 71b235031b8b5ca9679efa1cdc8d34b2 |
-| 2.6.0-2.8.0 | [audio_ja-jp_2.6.0_2.8.0_hdiff_fSkorpEtmeLPMHdt.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ja-jp_2.6.0_2.8.0_hdiff_fSkorpEtmeLPMHdt.zip) | 0.79 GB | 72bedf53655c792b992049ac0d8e8848 |
-| 2.6.0-2.8.0 | [audio_ko-kr_2.6.0_2.8.0_hdiff_UsVCqBaVJTbrnive.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ko-kr_2.6.0_2.8.0_hdiff_UsVCqBaVJTbrnive.zip) | 0.84 GB | c50cb1f35deab9356292de59e5c6a79c |
-| 2.6.0-2.8.0 | [audio_zh-cn_2.6.0_2.8.0_hdiff_TPIBoxiDcBqvLiQW.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_zh-cn_2.6.0_2.8.0_hdiff_TPIBoxiDcBqvLiQW.zip) | 0.72 GB | a5234fc809156d6ce9502cd3a3c3069e |
-| 2.6.0-2.8.0 | [audio_en-us_2.6.0_2.8.0_hdiff_yVpuaJdiaYQmzedq.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_en-us_2.6.0_2.8.0_hdiff_yVpuaJdiaYQmzedq.zip) | 0.77 GB | 48a0839b5e49f9777ff5bfaa44d189e2 |
-
-## 预下载
-
-- **预下载版本号**: 3.0.0
-### 预下载客户端
 
 | 下载链接 | 包大小 | MD5 校验码 |
 | :---: | :---: | :---: |
@@ -158,7 +111,7 @@
 | [juequling_3.0.0_AS.zip.009](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260529101913_kArtwDVsrOev13EB/VolumeZip/juequling_3.0.0_AS.zip.009) | 6.85 GB | 0EFADF02802F861EEC54353F0DEEF7BA |
 | [juequling_3.0.0_AS.zip.010](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260529101913_kArtwDVsrOev13EB/VolumeZip/juequling_3.0.0_AS.zip.010) | 6.84 GB | 6B30DAABB0B2EC66A49BCE73B72ED3DF |
 
-### 预下载语音包
+### 语音包
 
 | 语言 | 下载链接 | 大小 | MD5 校验码 |
 | :---: | :---: | :---: | :---: |
@@ -167,14 +120,14 @@
 | ja-jp | [audio_zip_Jp.zip](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260529101913_kArtwDVsrOev13EB/audio_zip_Jp.zip) | 4.09 GB | c26e8b3fe7a4dbde41c4b2c58be45c15 |
 | ko-kr | [audio_zip_Kr.zip](https://autopatchcn.juequling.com/package_download/op/client_app/download/20260529101913_kArtwDVsrOev13EB/audio_zip_Kr.zip) | 3.77 GB | c06e89319d169e446500b4c98a8cc4e5 |
 
-### 预下载客户端差分文件
+### 客户端差分文件
 
 | 差分版本 | 下载链接 | 大小 | MD5 校验码 |
 | :---: | :---: | :---: | :---: |
 | 2.8.0-3.0.0 | [game_2.8.0_3.0.0_hdiff_GgBRMFOnEkGilCnJ.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/game_2.8.0_3.0.0_hdiff_GgBRMFOnEkGilCnJ.zip) | 8.38 GB | e2e0f22859d68eb6e4105549b2004a23 |
 | 2.7.0-3.0.0 | [game_2.7.0_3.0.0_hdiff_awRzTbhxPkSHvoBU.zip](https://autopatchcn.juequling.com/pclauncher/nap_cn/game_2.7.0_3.0.0_hdiff_awRzTbhxPkSHvoBU.zip) | 13.57 GB | 1ac7ab55536444d9c84efcbea29b0a6d |
 
-### 预下载语音差分文件
+### 语音差分文件
 
 | 差分版本 | 下载链接 | 大小 | MD5 校验码 |
 | :---: | :---: | :---: | :---: |
