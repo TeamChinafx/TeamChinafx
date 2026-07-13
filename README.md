@@ -93,6 +93,50 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | 4.2.0-4.3.0 | [audio_ja-jp_4.2.0_4.3.0_hdiff_bBWhwgkdgDDiTWdZ.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_4.2.0_4.3.0_hdiff_bBWhwgkdgDDiTWdZ.7z) | 0.31 GB | a0deafa3b5c83df4607317021b8df926 |
 | 4.2.0-4.3.0 | [audio_en-us_4.2.0_4.3.0_hdiff_WMSjUttbJvkxLwHv.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_4.2.0_4.3.0_hdiff_WMSjUttbJvkxLwHv.7z) | 0.43 GB | 2740f62ece862930435bfe04c7cccb81 |
 
+## Pre Download
+
+- **Pre-download version number**: 4.4.0
+### Pre-download Client
+
+| Download link | Package size | MD5 checksum |
+| :---: | :---: | :---: |
+| [StarRail_4.4.0.7z.001](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.001) | 7.0 GB | E2D96868F08F65A4ECF8CB2C121DAB3D |
+| [StarRail_4.4.0.7z.002](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.002) | 7.0 GB | 0480F3EC19585D724DEB8B751945A993 |
+| [StarRail_4.4.0.7z.003](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.003) | 7.0 GB | 4FE94693362752FE70ADB00792C3B93F |
+| [StarRail_4.4.0.7z.004](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.004) | 7.0 GB | 6E0B974518409A8B7703F855307D5F90 |
+| [StarRail_4.4.0.7z.005](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.005) | 7.0 GB | 6E47E5FC7010A64EBD6AB3263A7F4E8D |
+| [StarRail_4.4.0.7z.006](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.006) | 7.0 GB | 5A3492A7E88A71C98CA2CBAF0E8D10AC |
+| [StarRail_4.4.0.7z.007](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.007) | 7.0 GB | 8F00096ACCE87D020C62D6CAC5EC2232 |
+| [StarRail_4.4.0.7z.008](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.008) | 7.0 GB | B80F4EBFE433CB608FB9624B10ED8BC1 |
+| [StarRail_4.4.0.7z.009](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.009) | 7.0 GB | A1197B0E01298572A8F8351E59FF6CF6 |
+| [StarRail_4.4.0.7z.010](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.010) | 7.0 GB | 554FF9D122DBF426CC5B1DFE4FC73FF9 |
+| [StarRail_4.4.0.7z.011](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.011) | 7.0 GB | 22277C610C8AF7ABF56B96C5D3524F64 |
+| [StarRail_4.4.0.7z.012](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/download/StarRail_4.4.0.7z.012) | 6.21 GB | B79389CA6379B040CB510A8161C030F2 |
+
+### Pre-download Voice Pack
+
+| Language | Download link | Size | MD5 checksum |
+| :---: | :---: | :---: | :---: |
+| zh-cn | [Chinese.7z](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/Chinese.7z) | 10.71 GB | 32b0f0003dc54c37ce36be354fc1013a |
+| en-us | [English.7z](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/English.7z) | 12.98 GB | 5b376824fa32125fb387e20a42bc8f16 |
+| ja-jp | [Japanese.7z](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/Japanese.7z) | 13.2 GB | 75004975d902def7aab2e40f4c9cfe9c |
+| ko-kr | [Korean.7z](https://autopatchos.starrails.com/client/download/20260703112350_laHsK1y15wUEo8JM/PC/Korean.7z) | 10.6 GB | 266ce15f02a01eed5aeb2c06ea1c97d6 |
+
+### Pre-download Client Diff files
+
+| Diff version | Download link | Size | MD5 checksum |
+| :---: | :---: | :---: | :---: |
+| 4.3.0-4.4.0 | [game_4.3.0_4.4.0_hdiff_DfvdjuyyZStZvKfL.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_4.3.0_4.4.0_hdiff_DfvdjuyyZStZvKfL.7z) | 4.28 GB | f452f0f543b6298582c504d936710618 |
+
+### Pre-download Audio Diff files
+
+| Diff version | Download link | Size | MD5 checksum |
+| :---: | :---: | :---: | :---: |
+| 4.3.0-4.4.0 | [audio_zh-cn_4.3.0_4.4.0_hdiff_ZGnXBQGwfIajFMyB.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_4.3.0_4.4.0_hdiff_ZGnXBQGwfIajFMyB.7z) | 0.26 GB | 2a7d2f14bd9f142a8e346198da921731 |
+| 4.3.0-4.4.0 | [audio_ko-kr_4.3.0_4.4.0_hdiff_rfiwtWVmGKcLYzPl.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_4.3.0_4.4.0_hdiff_rfiwtWVmGKcLYzPl.7z) | 0.27 GB | 52a513b3398bba412ab6bc75d1fa6011 |
+| 4.3.0-4.4.0 | [audio_en-us_4.3.0_4.4.0_hdiff_AvVBHumYjUCykkeT.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_en-us_4.3.0_4.4.0_hdiff_AvVBHumYjUCykkeT.7z) | 0.32 GB | a9ff348408bf80203742ae111e58c05a |
+| 4.3.0-4.4.0 | [audio_ja-jp_4.3.0_4.4.0_hdiff_ogXfMIwSrFGuJUFB.7z](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_4.3.0_4.4.0_hdiff_ogXfMIwSrFGuJUFB.7z) | 0.31 GB | cb859eaf61b69e21ef00a35ee84dda98 |
+
 ## Zenless Zone Zero
 
 - **Version number**: 3.0.0
