@@ -140,3 +140,50 @@ This document is based on the API URL provided by Hoyoverse to get the latest do
 | 3.0.0-3.2.0 | [audio_zh-cn_3.0.0_3.2.0_hdiff_AtmzATLpbForhWCg.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.0.0_3.2.0_hdiff_AtmzATLpbForhWCg.zip) | 0.45 GB | 67aaa59671f12dacc603bec9d83e6ec4 |
 | 3.0.0-3.2.0 | [audio_ko-kr_3.0.0_3.2.0_hdiff_zCxlzDHQCfwijIqG.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.0.0_3.2.0_hdiff_zCxlzDHQCfwijIqG.zip) | 0.65 GB | 15b4bc2fcd89a4323eea3ce89bd83f7d |
 
+## Pre Download
+
+- **Pre-download version number**: 3.3.0
+### Pre-download Client
+
+| Download link | Package size | MD5 checksum |
+| :---: | :---: | :---: |
+| [ZenlessZoneZero_3.3.0_AS.zip.001](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.001) | 7.69 GB | C58AEF7A98E532C28543C86255C8DCA0 |
+| [ZenlessZoneZero_3.3.0_AS.zip.002](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.002) | 7.69 GB | CA896D4B5495566964FF3EFE64242B38 |
+| [ZenlessZoneZero_3.3.0_AS.zip.003](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.003) | 7.69 GB | 6E80FE6F475FADABE0CAB5BBC0053C47 |
+| [ZenlessZoneZero_3.3.0_AS.zip.004](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.004) | 7.69 GB | 4083A1D11433BA05846F6C36DE921B88 |
+| [ZenlessZoneZero_3.3.0_AS.zip.005](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.005) | 7.69 GB | FD66CBE73E84A873B039DDCB6B047FB3 |
+| [ZenlessZoneZero_3.3.0_AS.zip.006](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.006) | 7.69 GB | F947506E9A73BB5CEF7B48DF4329D1D5 |
+| [ZenlessZoneZero_3.3.0_AS.zip.007](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.007) | 7.69 GB | 3A7D2A35E7953D78E797B3D39817BD58 |
+| [ZenlessZoneZero_3.3.0_AS.zip.008](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.008) | 7.69 GB | F4DF7DECBDFEB739244B39A2D421AAB2 |
+| [ZenlessZoneZero_3.3.0_AS.zip.009](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.009) | 7.69 GB | CC51A705895CB4846B260C61F1C9E283 |
+| [ZenlessZoneZero_3.3.0_AS.zip.010](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/VolumeZip/ZenlessZoneZero_3.3.0_AS.zip.010) | 7.69 GB | 006897C1AAFA0AF60C2375782F71AF33 |
+
+### Pre-download Voice Pack
+
+| Language | Download link | Size | MD5 checksum |
+| :---: | :---: | :---: | :---: |
+| zh-cn | [audio_zip_Cn.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/audio_zip_Cn.zip) | 4.21 GB | 39ce1ad71734405723c5063a535ab02c |
+| en-us | [audio_zip_En.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/audio_zip_En.zip) | 4.35 GB | 715a35532c18d23ada2b431ffdca8431 |
+| ja-jp | [audio_zip_Jp.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/audio_zip_Jp.zip) | 4.79 GB | df97e5b5bf4419a0e1d4ccbc7886193b |
+| ko-kr | [audio_zip_Kr.zip](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20260928114111_esFoPcTVHfeNu32V/audio_zip_Kr.zip) | 4.51 GB | 0d23aa83aea8f8120e6915b7a2a14025 |
+
+### Pre-download Client Diff files
+
+| Diff version | Download link | Size | MD5 checksum |
+| :---: | :---: | :---: | :---: |
+| 3.2.0-3.3.0 | [game_3.2.0_3.3.0_hdiff_htoMnlEfFUcPOmag.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_3.2.0_3.3.0_hdiff_htoMnlEfFUcPOmag.zip) | 6.38 GB | 7015d1b1b367f874fdafbf0b0792254c |
+| 3.1.0-3.3.0 | [game_3.1.0_3.3.0_hdiff_NONKALsgyMTuGwMy.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_3.1.0_3.3.0_hdiff_NONKALsgyMTuGwMy.zip) | 10.75 GB | 6324f3264cd35333af1f9ecaffca2b5e |
+
+### Pre-download Audio Diff files
+
+| Diff version | Download link | Size | MD5 checksum |
+| :---: | :---: | :---: | :---: |
+| 3.2.0-3.3.0 | [audio_zh-cn_3.2.0_3.3.0_hdiff_PZLkgMKokVbORiDE.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.2.0_3.3.0_hdiff_PZLkgMKokVbORiDE.zip) | 0.29 GB | d85a6016007ee69d14cbe70f61928b9a |
+| 3.2.0-3.3.0 | [audio_ko-kr_3.2.0_3.3.0_hdiff_ANpGLoGnGmIoyJtm.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.2.0_3.3.0_hdiff_ANpGLoGnGmIoyJtm.zip) | 0.16 GB | ec18950af5869837170d066935bc9ce6 |
+| 3.2.0-3.3.0 | [audio_en-us_3.2.0_3.3.0_hdiff_QpOlvHcpYcYnLQOw.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_3.2.0_3.3.0_hdiff_QpOlvHcpYcYnLQOw.zip) | 0.18 GB | d37fa8bf73bf0bd0eaa3aee61a8e65e9 |
+| 3.2.0-3.3.0 | [audio_ja-jp_3.2.0_3.3.0_hdiff_IINuhJgFfDMLAsWt.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_3.2.0_3.3.0_hdiff_IINuhJgFfDMLAsWt.zip) | 0.17 GB | 97c9c9e1416f3a98faba2a2f64fffd2b |
+| 3.1.0-3.3.0 | [audio_zh-cn_3.1.0_3.3.0_hdiff_oHWaLMdwABTHFfVL.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_3.1.0_3.3.0_hdiff_oHWaLMdwABTHFfVL.zip) | 0.51 GB | ecef501b33edf1645a2b207a7671caff |
+| 3.1.0-3.3.0 | [audio_ko-kr_3.1.0_3.3.0_hdiff_zLZvyYyLwvZefxsd.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_3.1.0_3.3.0_hdiff_zLZvyYyLwvZefxsd.zip) | 0.43 GB | 7900b47d4487bf872e9e83ab916f203c |
+| 3.1.0-3.3.0 | [audio_en-us_3.1.0_3.3.0_hdiff_tDizRduhnXYhIrgO.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_en-us_3.1.0_3.3.0_hdiff_tDizRduhnXYhIrgO.zip) | 0.46 GB | faa331571473b6e60ed24bdfaa12cdd3 |
+| 3.1.0-3.3.0 | [audio_ja-jp_3.1.0_3.3.0_hdiff_VPjrSWYhyDZwVXSO.zip](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_3.1.0_3.3.0_hdiff_VPjrSWYhyDZwVXSO.zip) | 0.44 GB | b4daa24dcbd253ba43091a57d26c2ece |
+
